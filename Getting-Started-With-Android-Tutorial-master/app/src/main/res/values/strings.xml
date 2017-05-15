@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+
+    <string name="drawer_open">Select an Item</string>
+    <string name="drawer_closed">Zoo</string>
+
+    <string name="exhibits_feed">https://gist.githubusercontent.com/draskomikic/29b5c4455b1fba14b655/raw/9ce42e4757d19091c028496ef834f08a6fac8a5f</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/fernandopuma/e96b9225d8386c293a2eb029a0c4ec4d/raw/eba2646e82af618c32edc6d41be01d78a42080cd</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/draskomikic/4d2d42e2d171b8db1abb/raw/255d63954112776597764eb81b8e0f49115a0cca</string>
+
+    <string name="section_exhibits">Exhibits</string>
+    <string name="section_gallery">Gallery</string>
+    <string name="section_map">Map</string>
+</resources>

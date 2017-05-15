@@ -1,0 +1,2 @@
+# Getting-Started-With-Android-Tutorial
+Creating native Android apps allows you to deliver a first-class mobile experience to your users. This course will take you through native Android development, from setup to creating a finished app.  In this course you will create an Android app for a zoo. You will create a list of exhibits that opens into a detail page, a gallery and a Google Maps section. You will also implement a navigation drawer and toolbar, while learning the basics of material design.
